@@ -1,0 +1,7 @@
+config.ini
+SoundEmpireMonitor.exe
+*.pdb
+*.log
+bin/
+obj/
+.vs/
